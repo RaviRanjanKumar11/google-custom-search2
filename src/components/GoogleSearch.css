@@ -1,0 +1,17 @@
+/* GoogleSearch.css */
+.search-container {
+     text-align: center;
+     padding: 20px;
+   }
+   input {
+     padding: 10px;
+     width: 300px;
+     margin-right: 10px;
+   }
+   button {
+     padding: 10px 20px;
+   }
+   div {
+     margin-top: 20px;
+   }
+   
